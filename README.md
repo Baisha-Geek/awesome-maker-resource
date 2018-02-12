@@ -19,6 +19,7 @@
 - [3D建模](#3D建模)
 - [创客教育机构](#创客教育机构)
 
+<br>
 
 --------------------------
 ## 灵感
@@ -40,6 +41,7 @@
 
 - [MakerBeta](http://www.makerbeta.com/) - 
 
+<br>
 
 ---------------------------------------------
 
@@ -76,6 +78,8 @@
 
 - [Inventioneers](https://itunes.apple.com/cn/app/inventioneers/id926202053?mt=8) - Inventioneers 是一个出色的工具，在本游戏中，您可以为您自己创造疯狂有趣的发明，可供您学习不同功能（空气、火、磁力以及跳跃的小兔）背后的实时物理学和科学！
 
+<br>
+
 ------------------------------------------------
 
 ## 硬件
@@ -90,17 +94,36 @@
 
 - [Micro:bit](http://microbit.org/) - 
 
+- [乐高](https://www.lego.com/en-us) - 
+
+<br>
+
 ------------------------------------------------
 
 ## 3D建模
 
-- [Tinkercad](https://www.tinkercad.com/) - 在线3D建模软件
+#### **软件**
 
-- [Thingiverse](https://www.thingiverse.com/) - 3D建模型库
+- [TinkerCAD](https://www.tinkercad.com/) - TinkerCAD是一个专注于几分钟内就可以完成3D设计作品的在线工具，支持导入STL格式的3D网格和SVG格式的2D文件，可以使用形状脚本工具，生成参数化3D模型。
 
-- [Sketchfab](https://sketchfab.com/) - 3D模型库
+- [Blender](https://www.blender.org/) - Blender 是一款开源的跨平台全能三维动画制作软件，提供从建模、动画、材质、渲染、到音频处理、视频剪辑等一系列动画短片制作解决方案。
 
-- [Pinshape](https://pinshape.com/) - 3D模型库
+#### **平台**
+
+- [Thingiverse](https://www.thingiverse.com/) - Thingiverse是全球最大的免费3D打印内容分享网站，是很多3D打印爱好者的首选网站。
+- [Sketchfab](https://sketchfab.com/) - Sketchfab是一个正逐渐进入虚拟现实领域的3D分享平台，基于 WebGL，用户可以像调用在线视频一样，通过粘贴一段代码在网站上完整地展示自己设计的 3D 模型，并且能够在网页上进行模型的修改处理。
+
+- [Pinshape](https://pinshape.com/) - Pinshape是一个蓬勃发展的3D打印社区市场，可以出售和分享您的设计或下载3D打印文件。
+
+- [CGtrader](https://www.cgtrader.com/) - CGTrader是计算机图形，虚拟、增强现实和游戏领域最大的3D模型市场，由强大的专业设计师社区支持。
+
+- [YouMagine](https://www.youmagine.com/) - YouMagine是一个3D打印爱好者的在线社区，他们希望共同合作，共享，混合和制作更好的3D打印的东西。
+
+- [CG模型网](http://www.cgmodel.com/) - CG模型网是一个以3D模型为主,针对全球所有CG设计行业用户的互动、展示平台，收费服务。
+
+- [国家动漫公共素材库](http://www.dmsck.org/) - 国家动漫公共素材库是扶持动漫产业发展部际联席会议办公室主办的国家级动漫素材资源共享平台；以征集和专门制作的精品素材资源为起点，以上传积分贡献制为运转核心，鼓励企业和个人上传素材资源，并获得相应的下载权利。
+
+<br>
 
 -----------------------------------------------
 
@@ -109,6 +132,7 @@
 - [FabAcademy](http://fabacademy.org/) - 
 
 
+<br>
 
 ----------------------------------------------
 ## 执照
