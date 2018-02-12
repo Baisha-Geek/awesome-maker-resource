@@ -18,6 +18,7 @@
 - [硬件](#硬件)
 - [3D建模](#3D建模)
 - [创客教育机构](#创客教育机构)
+- [其他](#其他)
 
 <br>
 
@@ -62,6 +63,7 @@
 
 - [编程猫](https://www.codemao.cn/) - 编程猫（codemao）是一款图形化编程工具平台，学生可以在编程猫平台上使用图形化编程语言创作出游戏、软件、动画、故事等作品。
 
+
 #### **iPad App**
 
 - [Swift playgrounds](https://www.apple.com/swift/playgrounds/) - 是苹果官方推出的一款以玩游戏般有趣方式来学习和入门 iOS 开发的免费 iPad 应用，它的整个学习过程就像玩游戏破解谜题过关一样，从易到难，边玩边学！ (Swift 是用来开发 iOS 和 macOS 平台应用的一种编程语言，就像 C++、Java 类似)
@@ -90,11 +92,16 @@
 
 - [Raspberry Pi](https://www.raspberrypi.org/) - 
 
+- [awesome-Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi) - github 上 Raspberry Pi 资料资源的总结列表
+
 - [树莓派实验室](http://shumeipai.nxez.com/) - 
 
 - [Micro:bit](http://microbit.org/) - 
 
+- [MakeBlock](http://www.makeblock.com/cn) - Makeblock主要面向创客，DIY爱好者，STEAM教育的学生和教育者；产品主要包含 STEAM 教育套件、科技玩具套件、DIY 机器人套件，以及拥有超过500种机械和电子部件的金属积木搭建平台，配套容易入门的图形化编程软件与丰富的线上和线下教程资源；是目前国内最流行的创客教育之一。
+
 - [乐高](https://www.lego.com/en-us) - 
+
 
 <br>
 
@@ -121,7 +128,7 @@
 
 - [CG模型网](http://www.cgmodel.com/) - CG模型网是一个以3D模型为主,针对全球所有CG设计行业用户的互动、展示平台，收费服务。
 
-- [国家动漫公共素材库](http://www.dmsck.org/) - 国家动漫公共素材库是扶持动漫产业发展部际联席会议办公室主办的国家级动漫素材资源共享平台；以征集和专门制作的精品素材资源为起点，以上传积分贡献制为运转核心，鼓励企业和个人上传素材资源，并获得相应的下载权利。
+- [国家动漫公共素材库](http://www.dmsck.org/) - 国家动漫公共素材库是扶持动漫产业发展部际联席会议办公室主办的国家级动漫素材资源共享平台，以征集和专门制作的精品素材资源为起点，以上传积分贡献制为运转核心，鼓励企业和个人上传素材资源，并获得相应的下载权利。
 
 <br>
 
@@ -135,6 +142,16 @@
 <br>
 
 ----------------------------------------------
+
+## 其他
+
+- [Awesome Educational Games](https://github.com/yrgo/awesome-eg) 
+
+- [Awesome Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids) 
+
+<br>
+
+------------------------------------------------
 ## 执照
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
