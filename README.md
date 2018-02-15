@@ -27,11 +27,11 @@
 
 #### **国外**
 
-- [Make](https://makezine.com/) - DIY项目和创意想法
+- [Make](https://makezine.com/) - MakeZine 极客电子产品DIY杂志是一个针对高科技产品DIY制作的混合型杂志，是提倡分享电子diy制作的平台，DIY爱好者能发现实用的、创意的、好玩有趣的DIY制作项目。
 
-- [Instructables](http://www.instructables.com/) -
+- [Instructables](http://www.instructables.com/) - Instructables 是一款为你 DIY 生活小物件提供步骤详细的图文应用；是一款专注服务你 DIY 生活的应用，通过图片文字的配合指导，它就像一本不断更新的说明书一样，给你提供多种图文并茂的产品制作方案，然后告诉你如何将它们一步一步做出来。
 
-- [Adafruit](https://www.adafruit.com/) - 
+- [Adafruit](https://www.adafruit.com/) - Adafruit是一个电子商店和创客论坛，教育工作者可以使用Adafruit产品发布问题，创客可以在这里获取各种灵感也可以分享信息或获得电子教学帮助。
 
 - [Hackster](https://www.hackster.io/) - Hackster是全球增长最快的开发者社区，用于学习，编程和构建硬件，通过汇集由近50万个创客和数百个技术合作伙伴组成的全球网络。
 
@@ -41,7 +41,7 @@
 
 #### **国内**
 
-- [MakerBeta](http://www.makerbeta.com/) - 
+- [MakerBeta](http://www.makerbeta.com/) - MakerBeta是一个盛产脑洞和黑科技的创客社区，每周发布最新创意视频，分享创造的知识、教程和乐趣。
 
 <br>
 
@@ -87,21 +87,21 @@
 
 ## 硬件
 
-- [Arduino](https://www.arduino.cc/) - 
+- [Arduino](https://www.arduino.cc/) - Arduino官方网站
 
-- [Arduino中文社区](http://www.arduino.cn/) - 
+- [Arduino中文社区](http://www.arduino.cn/) - Arduino国内网站
 
-- [Raspberry Pi](https://www.raspberrypi.org/) - 
+- [Raspberry Pi](https://www.raspberrypi.org/) - 树莓派官方网站
 
 - [awesome-Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi) - Github 上 Raspberry Pi 资料资源的总结列表。
 
-- [树莓派实验室](http://shumeipai.nxez.com/) - 
+- [树莓派实验室](http://shumeipai.nxez.com/) - 树莓派国内网站
 
-- [Micro:bit](http://microbit.org/) - 
+- [Micro:bit](http://microbit.org/) - Micro:bit 是现在非常热门的开源硬件，是一款由英国BBC设计的ARM架构的单片机，硬件上开发板支持蓝牙、LED阵列、音乐、按键、加速度传感器、磁场传感器等；在软件方面，它支持scratch、micropython、mbed、web等多种编程方式，固件是通过USB下载的；和树莓派一样，microbit有自己独有的生态系统，主要用于青少年的编程教育。
 
 - [MakeBlock](http://www.makeblock.com/cn) - Makeblock主要面向创客，DIY爱好者，STEAM教育的学生和教育者；产品主要包含 STEAM 教育套件、科技玩具套件、DIY 机器人套件，以及拥有超过500种机械和电子部件的金属积木搭建平台，配套容易入门的图形化编程软件与丰富的线上和线下教程资源；是目前国内最流行的创客教育之一。
 
-- [乐高](https://www.lego.com/en-us) - 
+- [乐高](https://www.lego.com/en-us) - 乐高官方网站
 
 
 <br>
