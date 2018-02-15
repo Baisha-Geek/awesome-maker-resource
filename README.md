@@ -29,14 +29,15 @@
 
 - [Make](https://makezine.com/) - DIY项目和创意想法
 
-- [Tested](http://www.tested.com/) - 
-
 - [Instructables](http://www.instructables.com/) -
 
 - [Adafruit](https://www.adafruit.com/) - 
 
-- [Hackster](https://www.hackster.io/) - 
+- [Hackster](https://www.hackster.io/) - Hackster是全球增长最快的开发者社区，用于学习，编程和构建硬件，通过汇集由近50万个创客和数百个技术合作伙伴组成的全球网络。
 
+- [Hackaday](https://hackaday.com/) - Hackaday每天都会从互联网上提供Fresh Hacks，内容混合了来自社区的创客以及我们自己的原创内容，包含各种有趣的创客制作。
+
+- [Tested](http://www.tested.com/) - Tested是由国外一群创客大佬运营的，是一个与世界分享兴趣和创意的场所，此网站覆盖了各种创客主题，有各种有趣的创客项目。
 
 #### **国内**
 
@@ -92,7 +93,7 @@
 
 - [Raspberry Pi](https://www.raspberrypi.org/) - 
 
-- [awesome-Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi) - github 上 Raspberry Pi 资料资源的总结列表
+- [awesome-Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi) - Github 上 Raspberry Pi 资料资源的总结列表。
 
 - [树莓派实验室](http://shumeipai.nxez.com/) - 
 
