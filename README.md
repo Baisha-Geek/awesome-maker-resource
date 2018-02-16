@@ -31,17 +31,17 @@
 
 - [Instructables](http://www.instructables.com/) - Instructables 是一款为你 DIY 生活小物件提供步骤详细的图文应用；是一款专注服务你 DIY 生活的应用，通过图片文字的配合指导，它就像一本不断更新的说明书一样，给你提供多种图文并茂的产品制作方案，然后告诉你如何将它们一步一步做出来。
 
-- [Adafruit](https://www.adafruit.com/) - Adafruit是一个电子商店和创客论坛，教育工作者可以使用Adafruit产品发布问题，创客可以在这里获取各种灵感也可以分享信息或获得电子教学帮助。
+- [Adafruit](https://www.adafruit.com/) - Adafruit 是一个电子商店和创客论坛，教育工作者可以使用Adafruit产品发布问题，创客可以在这里获取各种灵感也可以分享信息或获得电子教学帮助。
 
-- [Hackster](https://www.hackster.io/) - Hackster是全球增长最快的开发者社区，用于学习，编程和构建硬件，通过汇集由近50万个创客和数百个技术合作伙伴组成的全球网络。
+- [Hackster](https://www.hackster.io/) - Hackster 是全球增长最快的开发者社区，用于学习，编程和构建硬件，通过汇集由近50万个创客和数百个技术合作伙伴组成的全球网络。
 
-- [Hackaday](https://hackaday.com/) - Hackaday每天都会从互联网上提供Fresh Hacks，内容混合了来自社区的创客以及我们自己的原创内容，包含各种有趣的创客制作。
+- [Hackaday](https://hackaday.com/) - Hackaday 每天都会从互联网上提供Fresh Hacks，内容混合了来自社区的创客以及我们自己的原创内容，包含各种有趣的创客制作。
 
-- [Tested](http://www.tested.com/) - Tested是由国外一群创客大佬运营的，是一个与世界分享兴趣和创意的场所，此网站覆盖了各种创客主题，有各种有趣的创客项目。
+- [Tested](http://www.tested.com/) - Tested 是由国外一群创客大佬运营的，是一个与世界分享兴趣和创意的场所，此网站覆盖了各种创客主题，有各种有趣的创客项目。
 
 #### **国内**
 
-- [MakerBeta](http://www.makerbeta.com/) - MakerBeta是一个盛产脑洞和黑科技的创客社区，每周发布最新创意视频，分享创造的知识、教程和乐趣。
+- [MakerBeta](http://www.makerbeta.com/) - MakerBeta 是一个盛产脑洞和黑科技的创客社区，每周发布最新创意视频，分享创造的知识、教程和乐趣。
 
 <br>
 
@@ -55,6 +55,8 @@
 
 - [Scratch](https://scratch.mit.edu/) - Scratch平台是麻省理工学院开发的一种流行的初学者可视化编程语言，Scratch网站是一个让孩子编程并相互分享的平台，市面上大部分的编程教育软件都由其衍生而来。
 
+- [ScratchED](http://scratched.gse.harvard.edu/) - Scratch的在线社区和资源网站
+
 - [App Inventor](http://app.gzjkw.net/login/) - App Inventor 是一个完全在线开发的Android编程环境，抛弃复杂的程式代码而使用积木式的堆叠法来完成您的Android编程。
 
 - [Blockly](https://developers.google.com/blockly/) - Blockly是由google发布的一种在网页上运行的图形化编程语言，类似MIT的儿童编程语言Scratch，可生成6门语言：JavaScript、Python、PHP、Dart、Lua、XML，支持移动设备，易于扩展自定义的块。
@@ -64,6 +66,13 @@
 
 - [编程猫](https://www.codemao.cn/) - 编程猫（codemao）是一款图形化编程工具平台，学生可以在编程猫平台上使用图形化编程语言创作出游戏、软件、动画、故事等作品。
 
+- [CodeCombat](https://cn.codecombat.com/) - CodeCombat 是一个通过玩游戏来学习编程的网站，它是一款多人编码游戏，通过编程控制游戏人物。该款游戏的任务就是教会大家如何编程，并且通过游戏来提升开发者的技能水平；也是一个开源的[社区项目](https://cn.codecombat.com/community)，上百名玩家创建了各种关卡，翻译为50种语言。
+
+- [CodinGame](https://www.codingame.com/start) - CodinGame 是一个WEB游戏，支持包括PHP、C、JavaScript在内的20多种编程语言。用户界面功能非常丰富并且可以自定义。例如，你可以选择自己的代码编辑器风格：“Emacs”、”Vim”、或 “Classic”(默认)均可。
+
+- [CodeHunt](https://www.codehunt.com/) - Code Hunt 是一个由Microsoft Research开发的HTML5科幻主题游戏，支持Java和C#两种语言，你可以在游戏中学习到包括算法、循环和条件表达式等编程概念，你也可以通过阅读Code Hunt设计手册来扩展其他关卡。
+
+- [Screeps](https://screeps.com/) - Screeps是一个专为JavaScript程序员准备的大型多人在线游戏(MMO)，这个游戏是一个开放的策略游戏，在游戏中你控制的单位被称为creeps ，它可以帮你获得资源、建立自己的领地等等。
 
 #### **iPad App**
 
@@ -149,6 +158,8 @@
 - [Awesome Educational Games](https://github.com/yrgo/awesome-eg) 
 
 - [Awesome Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids) 
+
+- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
 
 <br>
 
