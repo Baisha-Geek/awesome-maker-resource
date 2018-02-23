@@ -17,6 +17,7 @@
 - [编程](#编程)
 - [硬件](#硬件)
 - [3D建模](#3D建模)
+- [创客教育资源](#创客教育资源)
 - [创客教育机构](#创客教育机构)
 - [其他](#其他)
 
@@ -96,6 +97,8 @@
 
 ## 硬件
 
+#### **平台**
+
 - [Arduino](https://www.arduino.cc/) - Arduino官方网站
 
 - [Arduino中文社区](http://www.arduino.cn/) - Arduino国内网站
@@ -111,6 +114,9 @@
 - [MakeBlock](http://www.makeblock.com/cn) - Makeblock主要面向创客，DIY爱好者，STEAM教育的学生和教育者；产品主要包含 STEAM 教育套件、科技玩具套件、DIY 机器人套件，以及拥有超过500种机械和电子部件的金属积木搭建平台，配套容易入门的图形化编程软件与丰富的线上和线下教程资源；是目前国内最流行的创客教育之一。
 
 - [乐高](https://www.lego.com/en-us) - 乐高官方网站
+
+#### **产品**
+
 
 
 <br>
@@ -144,19 +150,34 @@
 
 -----------------------------------------------
 
+## 创客教育资源
+
+- [Makerspace for Education](http://www.makerspaceforeducation.com/) -   Makerspace for Education是一个协作式数字空间，供教育工作者探索如何在自己的环境中创建和使用制作空间，并通过融入环境和实践社区的支持来帮助转变个别教育者的教学法。
+
+- [MakerDirectory](https://www.makerdirectory.com/) - MakerDirectory 是为了帮助制造商和制造商空间快速找到他们需要的资源并将它们全部归类在一个地方而开发的；这是一个随着时间的推移将会继续增长的项目，增加更多的链接。
+
+- [MakerSpaces](https://www.makerspaces.com/) - 提供一些免费的书籍和项目示例。
+
+- [PhET](https://phet.colorado.edu/) - PhET 由诺贝尔奖获得者卡尔·威曼创立，是由美国科罗拉多大学物理系所设计发展的一套互动教学系统，教学内容不限于物理，也包含了很多地球科学、化学、数学等主题，其目的是通过图形视觉、互动操作的方式以及线上数位工具的便利，让学生可以从实作体验里，更具体、有效并且有趣的学习各种科学知识。
+
+- [HackSpace杂志](https://hackspace.raspberrypi.org/) - HackSpace杂志是面向喜欢制作事物和想学习的人的新月刊。抓住一些胶带，启动一个微控制器，准备一台3D打印机，并破解你周围的世界。
+
+<br>
+
+-----------------------------------------------
 ## 创客教育机构
 
-- [FabAcademy](http://fabacademy.org/) - 
+- [FabAcademy](http://fabacademy.org/) - FabAcademy 是 MIT Fablab 开办的一个“虚拟学院”，目标是传播推广数字化、个性化制造理念和技能；每年 FabAcademy 课程历时5个月，每周通过在线教学学习一个新主题，并到线下实验室完成一个小项目。
 
-- [青橙创客教育](http://www.qcmaker.com/) - 
+- [青橙创客教育](http://www.qcmaker.com/) 
 
-- [火星人俱乐部](http://www.imarsclub.com/) - 
+- [火星人俱乐部](http://www.imarsclub.com/) 
 
-- [乐博机器人](http://www.roborobo.top/) - 
+- [乐博机器人](http://www.roborobo.top/) 
 
-- [鲨鱼公园](http://www.sharkpark.cn/) - 
+- [鲨鱼公园](http://www.sharkpark.cn/) 
 
-- [科乐机器人](http://www.kelerobot.com/) -
+- [科乐机器人](http://www.kelerobot.com/) 
 
 - [Y星球](http://www.yplanet.cn/)
  
@@ -176,7 +197,7 @@
 
 - [Awesome Programming for Kids](https://github.com/HollyAdele/awesome-programming-for-kids) 
 
-- [awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
+- [Awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding)
 
 <br>
 
