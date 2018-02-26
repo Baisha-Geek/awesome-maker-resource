@@ -117,7 +117,11 @@
 
 #### **产品**
 
+- [SAMlabs](https://uk.samlabs.com/) - SAM labs 帮助儿童参与到物联网的编程项目中，SAM 套件轻盈小巧，配备电池，使用起来非常方便，它能够创建区块，让用户通过蓝牙进行无线对话。此外，通过SAM应用的拖放功能，这些区块可以被编程并完成交互。
 
+- [Piper](https://www.playpiper.com/) - Piper 是一个集合了编码、工程技术，利用Minecraft开发的树莓派游戏机。
+
+- [MakeyMakey](https://www.makeymakey.com/) - MaKeyMaKey能够模拟键盘和鼠标的信号，结合电脑中现成的游戏和媒体播放器之类的软件，不用编程，就能够设计简单的互动媒体作品。
 
 <br>
 
