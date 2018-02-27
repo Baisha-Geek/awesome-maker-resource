@@ -173,9 +173,11 @@
 
 - [FabAcademy](http://fabacademy.org/) - FabAcademy 是 MIT Fablab 开办的一个“虚拟学院”，目标是传播推广数字化、个性化制造理念和技能；每年 FabAcademy 课程历时5个月，每周通过在线教学学习一个新主题，并到线下实验室完成一个小项目。
 
-- [青橙创客教育](http://www.qcmaker.com/) 
+- [青橙创客教育](http://www.qcmaker.com/) - 青橙创客教育是一家专注于创新教育的整合服务平台。为幼教、普教、职教、高教提供融合文化、课程、设备、空间四位一体的创新教育整体解决方案，拥有强大的创新课程体系研发能力、教育服务能力和顶层设计规划能力。
 
-- [火星人俱乐部](http://www.imarsclub.com/) 
+- [MadScience](http://www.madscience.org.cn/) - Mad Science是全球儿童科学教育的领导者，拥有最领先的科学教学设备和课程体系（课程全部符合STEM专业方向和美国“下一代科学教学大纲”）， 能给学校、机构、企业和家庭带来高端且有趣的科学课后俱乐部、学前课程、在校课程、夏令营、生日派对和定制活动…
+
+- [火星人俱乐部](http://www.imarsclub.com/) - 火星人致力于青少年创客教育，根据STEAM素质教育理念和团队专业背景，主要为6-12岁青少年研发了物理电子、机器人、3D打印、天文地质等多领域的科学课程。
 
 - [乐博机器人](http://www.roborobo.top/) 
 
@@ -188,8 +190,6 @@
 - [贝尔机器人](http://www.belledu.com/)
 
 - [STEAM教育](http://www.steamaker.cn/index)
-
-- [MadScience](http://www.madscience.org.cn/) - Mad Science是全球儿童科学教育的领导者，拥有最领先的科学教学设备和课程体系（课程全部符合STEM专业方向和美国“下一代科学教学大纲”）， 能给学校、机构、企业和家庭带来高端且有趣的科学课后俱乐部、学前课程、在校课程、夏令营、生日派对和定制活动…
 
 <br>
 
