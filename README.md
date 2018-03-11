@@ -180,6 +180,10 @@
 
 - [Prepmagic](https://www.prepmagic.com/) - Prepmagic 为学生提供帮助他们促进学习的科学模拟。
 
+- [Science Buddies](www.sciencebuddies.org) - Science Buddies 为中小学学生、家长以及老师提供开展科学实验面的的帮助。
+
+- [Exploratorium](https://www.exploratorium.edu/) - Exploratorium 为寻求科学项目和科学实验方面帮助的人们提供的全方位资源。
+
 - [Mystery Science](https://mysteryscience.com/) - 
 
 <br>
