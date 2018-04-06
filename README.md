@@ -40,6 +40,11 @@
 
 - [Tested](http://www.tested.com/) - Tested 是由国外一群创客大佬运营的，是一个与世界分享兴趣和创意的场所，此网站覆盖了各种创客主题，有各种有趣的创客项目。
 
+- [Maker Camp](https://makercamp.com/) - Maker Camp 包括了Make 和 MakerFaire。
+
+- [kobakant](http://www.kobakant.at/DIY/) - KOBAKANT DIY可穿戴技术文档，本网站旨在成为一个易于理解，易于获取和维护的参考资源，并为进一步探索和贡献奠定基础。
+
+
 #### **国内**
 
 - [MakerBeta](http://www.makerbeta.com/) - MakerBeta 是一个盛产脑洞和黑科技的创客社区，每周发布最新创意视频，分享创造的知识、教程和乐趣。
