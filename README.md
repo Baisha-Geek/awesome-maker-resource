@@ -44,6 +44,8 @@
 
 - [kobakant](http://www.kobakant.at/DIY/) - KOBAKANT DIY可穿戴技术文档，本网站旨在成为一个易于理解，易于获取和维护的参考资源，并为进一步探索和贡献奠定基础。
 
+- [Maker Pro](https://maker.pro/) - Maker Pro各种电子项目制作及教程
+
 
 #### **国内**
 
