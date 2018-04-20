@@ -38,13 +38,17 @@
 
 - [Hackaday](https://hackaday.com/) - Hackaday 每天都会从互联网上提供Fresh Hacks，内容混合了来自社区的创客以及我们自己的原创内容，包含各种有趣的创客制作。
 
+- [wevolver](https://www.wevolver.com/home) - wevolver 是一个汇集了各种中大型开源项目的网站，例如openROV、plen2等。
+
 - [Tested](http://www.tested.com/) - Tested 是由国外一群创客大佬运营的，是一个与世界分享兴趣和创意的场所，此网站覆盖了各种创客主题，有各种有趣的创客项目。
 
 - [Maker Camp](https://makercamp.com/) - Maker Camp 包括了Make 和 MakerFaire。
 
 - [kobakant](http://www.kobakant.at/DIY/) - KOBAKANT DIY可穿戴技术文档，本网站旨在成为一个易于理解，易于获取和维护的参考资源，并为进一步探索和贡献奠定基础。
 
-- [Maker Pro](https://maker.pro/) - Maker Pro各种电子项目制作及教程
+- [Maker Pro](https://maker.pro/) - Maker Pro各种电子项目制作及教程。
+
+- [Maker's Row](https://makersrow.com/) - Maker's Row是一个专注于服饰，配饰，家具和家居装饰的在线网站。
 
 
 #### **国内**
