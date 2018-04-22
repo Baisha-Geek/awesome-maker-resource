@@ -48,8 +48,11 @@
 
 - [Maker Pro](https://maker.pro/) - Maker Pro各种电子项目制作及教程。
 
-- [Maker's Row](https://makersrow.com/) - Maker's Row是一个专注于服饰，配饰，家具和家居装饰的在线网站。
+- [Maker's Row](https://makersrow.com/) - Maker's Row 是一个专注于服饰，配饰，家具和家居装饰的在线网站。
 
+- [RoboShop](https://www.robotshop.com/letsmakerobots/) - RoboShop 是一个旨在帮助初学者开始使用机器人技术。
+
+- [incredibits](https://incredibits.io/) - incredibits
 
 #### **国内**
 
@@ -72,7 +75,6 @@
 - [App Inventor](http://app.gzjkw.net/login/) - App Inventor 是一个完全在线开发的Android编程环境，抛弃复杂的程式代码而使用积木式的堆叠法来完成您的Android编程。
 
 - [Blockly](https://developers.google.com/blockly/) - Blockly是由google发布的一种在网页上运行的图形化编程语言，类似MIT的儿童编程语言Scratch，可生成6门语言：JavaScript、Python、PHP、Dart、Lua、XML，支持移动设备，易于扩展自定义的块。
-
 
 - [Code.org](https://studio.code.org/courses) - 为孩子们提供交互式编码游戏和课程的网站。
 
@@ -155,6 +157,7 @@
 #### **平台**
 
 - [Thingiverse](https://www.thingiverse.com/) - Thingiverse是全球最大的免费3D打印内容分享网站，是很多3D打印爱好者的首选网站。
+
 - [Sketchfab](https://sketchfab.com/) - Sketchfab是一个正逐渐进入虚拟现实领域的3D分享平台，基于 WebGL，用户可以像调用在线视频一样，通过粘贴一段代码在网站上完整地展示自己设计的 3D 模型，并且能够在网页上进行模型的修改处理。
 
 - [Pinshape](https://pinshape.com/) - Pinshape是一个蓬勃发展的3D打印社区市场，可以出售和分享您的设计或下载3D打印文件。
