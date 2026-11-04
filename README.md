@@ -119,6 +119,7 @@
 - [Raspberry Pi](https://www.raspberrypi.org/) - 树莓派官方网站
 
 - [awesome-Raspberry Pi](https://github.com/thibmaek/awesome-raspberry-pi) - Github 上 Raspberry Pi 资料资源的总结列表。
+- [Sticker Printer Hub](https://stickerprinterhub.com/) - 独立评测家用贴纸打印机与裁切机（Liene PixCut S1、Cricut StickerPix、Canon SELPHY 等），附每张成本计算器和免费的 4x7 贴纸排版工具。
 
 - [树莓派实验室](http://shumeipai.nxez.com/) - 树莓派国内网站
 
